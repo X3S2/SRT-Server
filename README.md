@@ -2218,7 +2218,7 @@ sollte jeweils zuerst kontrolliert werden, ob der aktuelle Schritt funktioniert.
 │  │                                       │  │
 │  │ SRT Input                             │  │
 │  │ live                                  │  │
-│  │ fallback.mp4                         │  │
+│  │ fallback.mp4                          │  │
 │  └───────────────────────────────────────┘  │
 │                    │                        │
 │                    ▼                        │
